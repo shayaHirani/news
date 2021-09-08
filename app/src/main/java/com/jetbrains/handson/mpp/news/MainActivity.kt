@@ -1,5 +1,5 @@
 package com.jetbrains.handson.mpp.news
-
+//test1
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
